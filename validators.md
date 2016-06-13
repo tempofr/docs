@@ -91,3 +91,10 @@ Slack | sirius
 Peer | stellar1.moni.com
 NodeID | GAXP5DW4CVCW2BJNPFGTWCEGZTJKTNWFQQBE5SCWNJIJ54BOHR3WQC3W
 
+Name | tempo
+-----|------
+Contact | tempo.eu.com
+Slack | ant
+Peer | stellar1.tempo.eu.com
+NodeID | SDG2YVVYTJNF72OKZMBXPYVPDOALJWMG6Q27RR4VMPGDEBJRM6LT72UN
+
